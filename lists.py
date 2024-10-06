@@ -24,6 +24,4 @@ def main():
             print(lst)
         
 if __name__ == "__main__":
-    main() #test 123
-
-    #what
+    main() 
